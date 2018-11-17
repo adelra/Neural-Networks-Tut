@@ -3,7 +3,8 @@
 ---
 
 You can find most of these approaches in the internet as well. I tried reducing the libraries and moving parts used in the codes in order to maintain the forward-compatibility of the repository.
- Some of these codes are assignments are for ce959-1: Deep Learning at Sharif University of Technology
+Some of these codes are assignments are for ce959-1: Deep Learning at Sharif University of Technology
+ 
 ---
 CE_SSE.py:
 Plotting states of Cross Entropy and SSE loss functions
